@@ -14,7 +14,19 @@
 <br>右键标注框红色区域删除标注框，左击标注框红色区域可拖动</br>
 <br>label_config.txt中可添加类别</br>
 <br>图片名必须连号</br>
+<ul>
+<li>程序界面(矩形式)</li>
 
+![Image text](https://github.com/HuiyanWen/RJB/blob/master/4.png)
+
+<li>程序界面(四点式)</li>
+
+![Image text](https://github.com/HuiyanWen/RJB/blob/master/5.png)
+
+<li>label截图</li>
+
+![Image text](https://github.com/HuiyanWen/RJB/blob/master/6.png)
+</ul>
 <h3>数据标注代码说明</h3>
 
 ![Image text](https://github.com/HuiyanWen/RJB/blob/master/annotation.png)
