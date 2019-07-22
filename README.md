@@ -4,7 +4,7 @@
 
 <h3>主程序启动方式</h3>
 
-<br>运行:python3 demo.py
+<br>运行:python3 demo.py</br>
 <br>注意:需识别的图片集放在当前目录的img_dir文件夹下，识别结果保存至./crop/result.txt</br>
 <br>目标检测的过程可视化保存在crop文件夹中，可以看到经过检测裁剪出来的银行卡区域。</br>
 
